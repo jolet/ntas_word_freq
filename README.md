@@ -1,7 +1,6 @@
 # ntas_word_freq
 python docx word frequency counter
 
-Requires python 2(.7.11) and python-docx module
-python-docx https://python-docx.readthedocs.io/en/latest/user/install.html
+Reads 'Homer2.docx' document from src/ntas/resources/ folder and counts unique words and their frequencies.
 
-
+Requires python 2.7(.11)
